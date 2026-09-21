@@ -24,3 +24,6 @@ dist/
 
 # Raw datasets
 data/raw/*
+
+# Keep raw datasets private/ignored, but track their documentation
+!data/raw/DATA_SOURCE.md
